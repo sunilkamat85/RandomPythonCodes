@@ -1,4 +1,4 @@
-#Given an array of ints, return True if .. 1, 2, 3, .. appears in the array somewhere. ?
+#Girrven an array of ints, return True if .. 1, 2, 3, .. appears in the array somewhere. ?
 
 def array123(nums):
  n1 = set(nums)
