@@ -1,3 +1,5 @@
+#This program will get a directory path as input
+#under that directory, if it finds .txt file, It will be changed to .doc file
 import os, glob
 from sys import argv
 dir_path = argv[1]
