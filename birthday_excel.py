@@ -1,3 +1,5 @@
+#1. This program will read a excel file with colomns like username, employee ID, department, date of birth
+#If anybody is having birthday today it will trigger a mail
 import subprocess
 import xlrd
 import smtplib
